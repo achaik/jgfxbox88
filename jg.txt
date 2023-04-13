@@ -14,64 +14,48 @@
     }
 
     ],
-    "sites": [ {
-        "key": "drpy_js_百忙无果",
-            "name": "👑芒果TV[DRPY]",
-            "type": 3,
-            "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"
-    }
+    "sites": [
 
-    ,
-    {
-    "key": "drpy_js_奇珍异兽",
-        "name": "👑奇异TV[DRPY]",
-        "type": 3,
-        "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-        "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇珍异兽.js"
-}
 
-,
 {
-"key": "drpy_js_优酷",
-    "name": "👑优酷TV[DRPY]",
+"key": "csp_Kunyu77",
+    "name": "🌸JG更新04",
     "type": 3,
-    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"
-}
+    "api": "csp_Kunyu77",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
 
-,
 {
-"key": "drpy_js_腾云驾雾",
-    "name": "👑腾讯TV[DRPY]",
+"key": "csp_LiteApple",
+    "name": "🌸SP | 苹果",
     "type": 3,
-    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"
-}
-
-,
+    "api": "csp_LiteApple",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
 
 {
-"key": "AliPS", "name":"😻盘搜", "type":3, "api":"csp_AliPS", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1
-}
+"key": "快看影视",
+    "name": "🌸SP | 快看",
+    "type": 3,
+    "api": "csp_Kuaikan",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
 
-,
 {
-"key": "FindZY", "name":"🎄资源", "type":3, "api":"csp_Zhaozy", "searchable":1, "playerType":1, "quickSearch":1, "filterable":0
-}
-
-,
-{
-"key": "csp_Yisou", "name":"🆎易搜", "type":3, "api":"csp_Yisou", "searchable":1, "playerType":1, "quickSearch":1, "filterable":0
-}
-
-,
-{
-"key": "csp_Upyunso", "name":"☁️云搜", "type":3, "api":"csp_Upyunso", "searchable":1, "playerType":1, "quickSearch":1, "filterable":0
-}
-
-,
-
+"key": "Dm84",
+    "name": "🌸SP |Dm",
+    "type": 3,
+    "api": "csp_Dm84",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
 {
       "key": "VIPlive",
       "name": "🎀VIP直播",
@@ -126,49 +110,7 @@
       "filterable": 1,
       "categories": [ "动作片", "爱情片", "科幻片", "战争片", "剧情片", "恐怖片", "喜剧片", "大陆剧", "港澳剧", "台湾剧", "欧美剧", "动漫电影", "韩剧", "日剧", "泰剧"]
     },
-{
-"key": "MiniYs_spider", "name":"🌸SP |迷你", "api":"csp_MiniYs", "type":3, "filterable":1, "quickSearch":1, "searchable":1, "ext":"", "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"
-},
 
-{
-"key": "csp_Kunyu77",
-    "name": "🌸SP | 七七",
-    "type": 3,
-    "api": "csp_Kunyu77",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-
-{
-"key": "csp_LiteApple",
-    "name": "🌸SP | 苹果",
-    "type": 3,
-    "api": "csp_LiteApple",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-
-{
-"key": "快看影视",
-    "name": "🌸SP | 快看",
-    "type": 3,
-    "api": "csp_Kuaikan",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-
-{
-"key": "Dm84",
-    "name": "🌸SP |Dm",
-    "type": 3,
-    "api": "csp_Dm84",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
  {
       "key": "NoSearch_csp_BBB",
       "name": "哔哩哔哩",
@@ -189,13 +131,6 @@
       "filterable": 1
     },
 
-{
-"key": "drpy_js_追剧达人",
-    "name": " 🎐追剧达人[DRPY]",
-    "type": 3,
-    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/追剧达人.js"
-},
 
 {
 "key": "drpy_js_酷云77",
