@@ -17,7 +17,7 @@
   "sites": [
     {
       "key": "csp_Kunyu77",
-      "name": "🌸JG更新04",
+      "name": "🌸JG更新 千年宝庆府 一品邵阳红",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
